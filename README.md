@@ -26,7 +26,7 @@ Category(운동/맛집/여행..) 별로 사용자 개인이 일기처럼 지도�
 ![Generic badge](https://img.shields.io/badge/database-MongoDB-yellow.svg) ![Generic badge](https://img.shields.io/badge/api-mapbox-red,.svg) ![Generic badge](https://img.shields.io/badge/language-TypeScript-important.svg)
 <br>
  
-## 필요한 기능
+## 💼 필요한 기능
 - [ ] 로그인 & 회원가입
 - [ ] 마이페이지
     - [ ] 개인정보 수정
